@@ -3,9 +3,9 @@
 
 <h3>:bust_in_silhouette: About me</h3>
 
-* :books: Studying Bachelor in Science and Technology plus Bachelor in Computer Science at Federal University of ABC
+* :books: Studying Bachelor in Science and Technology plus a Bachelor in Computer Science at Federal University of ABC
 * :mag: :briefcase: Currently looking an intern oportunitity as full-stack developer
-* :book: Currently studying web-frontend, having already studied Spring Boot as a backend framework
+* :book: Currently studying web-frontend, having already studied Spring as a backend framework
 
 <!--
 <h3>:wrench: Languages and Tools</h3>
