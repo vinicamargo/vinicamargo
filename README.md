@@ -4,7 +4,7 @@
 <h3>:bust_in_silhouette: About me</h3>
 
 * :books: Studying Bachelor in Science and Technology plus a Bachelor in Computer Science at Federal University of ABC
-* :mag: :briefcase: Currently working as Automation Developer at Itaú Unibanco
+* :briefcase: Currently working as Automation Developer at Itaú Unibanco
 
 <!--
 <h3>:wrench: Languages and Tools</h3>
