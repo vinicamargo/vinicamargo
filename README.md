@@ -4,4 +4,3 @@
 <h3>:bust_in_silhouette: About me</h3>
 
 * :books: Studying Bachelor in Science and Technology Federal University of ABC
-* :briefcase: Currently working as Developer at Itaú Unibanco
