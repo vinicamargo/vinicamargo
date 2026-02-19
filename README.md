@@ -1,6 +1,14 @@
-<h2 align="center">Hello there! 👋 Welcome to my GitHub profile :octocat: </h2>
-<h4 align="center">I'm Vinicius,  I.T. Engineer and lover of technology</span>
+# Hi there, I'm Vini! 👋
 
-<h3>:bust_in_silhouette: About me</h3>
+### 🚀 Software Engineer | Backend Developer | Cloud & DevOps Enthusiast
 
-* :books: Studying Bachelor in Science and Technology Federal University of ABC
+I am a results-driven **Software Engineer** with a strong background in building scalable backend systems and automating infrastructure. With professional experience at **Itaú** (one of Latin America's largest banks), I focus on creating robust applications using **Java**, **Python**, and **Kotlin**, while leveraging the power of **AWS** and **Terraform**.
+
+---
+
+### 🛠 My Tech Stack
+
+* **Languages:** Java (Spring Boot), Python (FastAPI/Flask), Kotlin (Android/JVM).
+* **Cloud & Infrastructure:** AWS (EC2, S3, Lambda, RDS), Terraform (Infrastructure as Code).
+* **DevOps & Tools:** CI/CD Pipelines, Docker, Linux (Pop!_OS user), Git.
+* **Databases:** PostgreSQL, MySQL.
